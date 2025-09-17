@@ -14,7 +14,7 @@ Projet collaboratif pour créer une distribution Linux from scratch.
 
 ## Démarrage rapide
 1. Cloner le dépôt :
-   git clone https://github.com/ton-org/linux-from-scratch-project.git
+   git clone https://github.com/Anonymous1337404/notre-distribution-linux.git
 2. Lire `docs/build-guide.md` pour les étapes de compilation
 3. Lancer le build principal :
    ./scripts/build.sh
